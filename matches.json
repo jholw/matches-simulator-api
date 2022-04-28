@@ -3,7 +3,7 @@
     "descricao" : "Eliminatorias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem":"TODO"
+      "imagem":"https://http2.mlstatic.com/D_NQ_NP_863389-MLB32951716139_112019-O.jpg"
     },
     "mandante":{ 
       "nome": "Brasil",
@@ -19,8 +19,8 @@
   {
     "descricao" : "Eliminatorias Copa 2022",
     "local": {
-      "nome": "Centenário",
-      "imagem":"TODO"
+      "nome": "Estádio do Centenário",
+      "imagem":"https://upload.wikimedia.org/wikipedia/commons/9/98/Estadio_Centenario_2021.jpg"
     },
     "mandante":{ 
       "nome": "Uruguay",
@@ -37,7 +37,7 @@
     "descricao" : "Eliminatorias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem":"TODO"
+      "imagem":"https://http2.mlstatic.com/D_NQ_NP_863389-MLB32951716139_112019-O.jpg"
     },
     "mandante":{ 
       "nome": "Brasil",
